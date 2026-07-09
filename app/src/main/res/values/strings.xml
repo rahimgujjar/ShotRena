@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ShotRena</string>
+    <string name="shotrena_active">ShotRena Active</string>
+    <string name="watching">Watching for screenshots…</string>
+    <string name="pending_format">%d Screenshots Pending</string>
+    <string name="stop_service">STOP</string>
+    <string name="queue_format">Queue: %d screenshots</string>
+    <string name="rename_screenshot">Rename Screenshot</string>
+    <string name="enter_name_label">Enter Name:</string>
+    <string name="name_hint">Name…</string>
+    <string name="format_hint">Format: Name_Date_Time.jpg/png</string>
+    <string name="btn_rename">SAVE &amp; NEXT</string>
+    <string name="rename_success">Renamed!</string>
+    <string name="rename_failed">Rename Failed: %s</string>
+    <string name="error_image">Error loading image</string>
+    <string name="must_rename">You must rename pending screenshots!</string>
+    <string name="permission_battery">Please Allow Unrestricted Battery</string>
+    <string name="permission_storage">Please Allow All Files Access</string>
+    <string name="permission_overlay">Please Allow \'Display Over Other Apps\'</string>
+    <string name="permissions_granted">All Permissions Granted! You can now use the Tile.</string>
+    <string name="engine_starting">Starting Engine…</string>
+    <string name="engine_stopping">Stopping Engine…</string>
+    <string name="tile_on">ShotRena ON</string>
+    <string name="tile_off">ShotRena OFF</string>
+    <string name="enter_valid_name">Please enter a name</string>
+    <string name="filename_label">Filename</string>
+    <string name="enter_name_hint">Enter name…</string>
+    <string name="save_and_next">SAVE &amp; NEXT</string>
+    <string name="icon_description">App Icon</string>
+</resources>
