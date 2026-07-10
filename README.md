@@ -2,6 +2,8 @@
 
 **ShotRena** is a system-level Android utility built in Kotlin that actively monitors live device telemetry for screenshot capture events. Upon detection, it triggers a background service that prompts the user for immediate file renaming, streamlining media classification and keyword search retrieval.
 
+**Source Code:** This repository contains the complete Kotlin source code and project files required to build ShotRena.
+
 ## 📥 Installation & Setup
 The latest compiled APK is available in the [Releases](../../releases) tab.
 
